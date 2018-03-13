@@ -7,7 +7,7 @@ Simple code that works on Arduino Micro, using the Cylon.js library and websocke
 
 
 # How it works and what it can do
-This program is a way for your browser to communicate with your Arduino board, using buttons on an html page. It's main contribution is to show how LEDs on a board can be triggered, but how it represents real-life electronic hardware and how you could trigger or  and control them using nothing but the browser.
+This program is a way for your browser to communicate with your Arduino board, using buttons on an html page. It's main contribution is to show how LEDs on a board can be triggered, but also how it represents real-life electronic hardware and how you could trigger soe finctons they do or  and control them using nothing but the browser.
 
 ## Wiring Arduino board
 To use: First, you want to wire your arduino board accordingly, in this example, pin 3, 4 and 5 are used on the Arduino board, which has a led plugged in on each output. 
