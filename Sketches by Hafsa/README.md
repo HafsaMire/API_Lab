@@ -32,5 +32,5 @@ what port you got from scan serial to put in here should being with(COM)).
 $ npm start (starts a live-server at localhost:5000 and starts the 'robot' on the arduino
 Go to localhost:5000 and start using. Wire Arduino board accordingly to the pins in the app.js file,
 
-You can now control the arduino board from localhost:5000
+You can now control the arduino board from localhost:5500
 
