@@ -30,7 +30,7 @@ what port you got from scan serial to put in here if using a Mac)
 ## Starting it up
 $ npm start (starts a live-server at localhost:5500 and starts the 'robot' on the arduino.
 
-Go to localhost:5000 and start controlling the lights on the board. Make sure the Arduino is wired properly and that each LED 
+Go to localhost:5500 and start controlling the lights on the board. Make sure the Arduino is wired properly and that each LED 
 
 You can now control the arduino board from localhost:5500
 
